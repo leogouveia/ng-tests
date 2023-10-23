@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve",
+    "startTime": "2023-10-22T17:11:54.368Z",
+    "endTime": "2023-10-22T17:13:04.052Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "ng-testes:serve:development",
+      "target": "serve",
+      "projectName": "ng-testes",
+      "hash": "7992890360534818755",
+      "startTime": "2023-10-22T17:11:54.372Z",
+      "endTime": "2023-10-22T17:13:04.052Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

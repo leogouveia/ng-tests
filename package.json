@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "pretty-web-console": "^0.10.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
@@ -32,7 +33,6 @@
     "@nx/workspace": "17.0.1",
     "@schematics/angular": "~15.2.9",
     "@types/jasmine": "~4.3.0",
-    "chalk": "^5.3.0",
     "jasmine-core": "~4.5.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.1.0",

@@ -1408,3 +1408,405 @@
 [37m[0mBuild at: [1m[37m2023-10-22T15:28:26.398Z[39m[37m[22m - Hash: [1m[37m95b190664a8198cb[39m[37m[22m - Time: [1m[37m116[39m[37m[22mms[0m[39m
 [37m[39m
 [37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                                 [2m | [22mmain                      [2m | [22m [96m7.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m [96m3.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:41:05.961Z[39m[37m[22m - Hash: [1m[37m52d205941d4ed23c[39m[37m[22m - Time: [1m[37m367[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m [96m7.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:41:32.556Z[39m[37m[22m - Hash: [1m[37m9aa5462cbabacbb5[39m[37m[22m - Time: [1m[37m95[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                                 [2m | [22mmain                      [2m | [22m [96m7.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m [96m4.92 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:46:04.835Z[39m[37m[22m - Hash: [1m[37m38c7b2225aebe680[39m[37m[22m - Time: [1m[37m232[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m [96m5.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:46:22.632Z[39m[37m[22m - Hash: [1m[37me1b2ccddd5cc3fa8[39m[37m[22m - Time: [1m[37m132[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m [96m5.29 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:46:55.856Z[39m[37m[22m - Hash: [1m[37mb91ffa0fab63969f[39m[37m[22m - Time: [1m[37m159[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m12[0m:[93m25[0m - [91merror[0m[90m TS2304: [0mCannot find name 'interval'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m     this.subscription = interval(1000).subscribe((value) => {[39m[22m
+[1m[31m[7m  [0m [91m                        ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m12[0m:[93m51[0m - [91merror[0m[90m TS7006: [0mParameter 'value' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m     this.subscription = interval(1000).subscribe((value) => {[39m[22m
+[1m[31m[7m  [0m [91m                                                  ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m18.75 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:47:00.824Z[39m[37m[22m - Hash: [1m[37mb481505f934421be[39m[37m[22m - Time: [1m[37m135[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m18.82 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:47:40.929Z[39m[37m[22m - Hash: [1m[37mce78b8baf5a292ba[39m[37m[22m - Time: [1m[37m124[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.27 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:47:53.042Z[39m[37m[22m - Hash: [1m[37ma3d134b9282c7ec5[39m[37m[22m - Time: [1m[37m102[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.31 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:48:14.933Z[39m[37m[22m - Hash: [1m[37mdbe4b735177980c7[39m[37m[22m - Time: [1m[37m106[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.34 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:48:50.823Z[39m[37m[22m - Hash: [1m[37mc6acfa881b6cc614[39m[37m[22m - Time: [1m[37m134[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.35 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:49:07.793Z[39m[37m[22m - Hash: [1m[37m664b01983aae67cf[39m[37m[22m - Time: [1m[37m125[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.42 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:49:42.776Z[39m[37m[22m - Hash: [1m[37m066f73e60d92c42c[39m[37m[22m - Time: [1m[37m183[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.42 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:49:43.538Z[39m[37m[22m - Hash: [1m[37m1ea4dec1fb43166d[39m[37m[22m - Time: [1m[37m111[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.46 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:50:16.317Z[39m[37m[22m - Hash: [1m[37me1d46b9b21434050[39m[37m[22m - Time: [1m[37m191[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.46 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:50:56.562Z[39m[37m[22m - Hash: [1m[37m4b78c3eb8898641c[39m[37m[22m - Time: [1m[37m139[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m19.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:51:11.674Z[39m[37m[22m - Hash: [1m[37m58251d2e76c750cc[39m[37m[22m - Time: [1m[37m113[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m37.12 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:52:10.895Z[39m[37m[22m - Hash: [1m[37m37ccc3319406bcd9[39m[37m[22m - Time: [1m[37m522[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/.pnpm/chalk@5.3.0/node_modules/chalk/source/vendor/supports-color/index.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module 'node:tty' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import type {WriteStream} from 'node:tty';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m37.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:52:40.451Z[39m[37m[22m - Hash: [1m[37m58ce3a2d5221daa8[39m[37m[22m - Time: [1m[37m101[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/.pnpm/chalk@5.3.0/node_modules/chalk/source/vendor/supports-color/index.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module 'node:tty' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import type {WriteStream} from 'node:tty';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m37.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:52:48.427Z[39m[37m[22m - Hash: [1m[37mae81b9148bfd3253[39m[37m[22m - Time: [1m[37m137[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/.pnpm/chalk@5.3.0/node_modules/chalk/source/vendor/supports-color/index.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module 'node:tty' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import type {WriteStream} from 'node:tty';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m            [2m | [22mmain   [2m | [22m [96m7.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T16:58:51.726Z[39m[37m[22m - Hash: [1m[37m8e7ccd28e5814098[39m[37m[22m - Time: [1m[37m209[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/.pnpm/chalk@5.3.0/node_modules/chalk/source/vendor/supports-color/index.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module 'node:tty' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import type {WriteStream} from 'node:tty';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m8 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T17:06:26.223Z[39m[37m[22m - Hash: [1m[37m8e7ccd28e5814098[39m[37m[22m - Time: [1m[37m223[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mnode_modules/.pnpm/chalk@5.3.0/node_modules/chalk/source/vendor/supports-color/index.d.ts[0m:[93m1[0m:[93m32[0m - [91merror[0m[90m TS2307: [0mCannot find module 'node:tty' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m1[0m import type {WriteStream} from 'node:tty';[39m[22m
+[1m[31m[7m [0m [91m                               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m54.73 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T17:08:11.861Z[39m[37m[22m - Hash: [1m[37mb20e9af09beb57f2[39m[37m[22m - Time: [1m[37m369[39m[37m[22mms[0m[39m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0m/Users/leogouveia/Development/teste/ng-testes/src/app/pages/teste3/Teste3.component.ts depends on 'pretty-web-console'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m3[0m:[93m17[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module 'pretty-web-console'. '/Users/leogouveia/Development/teste/ng-testes/node_modules/.pnpm/pretty-web-console@0.10.1/node_modules/pretty-web-console/dist/pretty-web-console.js' implicitly has an 'any' type.[39m[22m
+[1m[31m  Try `npm i --save-dev @types/pretty-web-console` if it exists or add a new declaration (.d.ts) file containing `declare module 'pretty-web-console';`[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import pwc from 'pretty-web-console';[39m[22m
+[1m[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m30[0m:[93m22[0m - [91merror[0m[90m TS2304: [0mCannot find name 'chalk'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m       console.log(`${chalk.red('Teste3Component')}: ${this.date}: ${value}`),[39m[22m
+[1m[31m[7m  [0m [91m                     ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m54.73 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T17:08:14.557Z[39m[37m[22m - Hash: [1m[37m485b1b9762f51f8c[39m[37m[22m - Time: [1m[37m96[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m3[0m:[93m17[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module 'pretty-web-console'. '/Users/leogouveia/Development/teste/ng-testes/node_modules/.pnpm/pretty-web-console@0.10.1/node_modules/pretty-web-console/dist/pretty-web-console.js' implicitly has an 'any' type.[39m[22m
+[1m[31m  Try `npm i --save-dev @types/pretty-web-console` if it exists or add a new declaration (.d.ts) file containing `declare module 'pretty-web-console';`[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import pwc from 'pretty-web-console';[39m[22m
+[1m[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m30[0m:[93m22[0m - [91merror[0m[90m TS2304: [0mCannot find name 'chalk'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m       console.log(`${chalk.red('Teste3Component')}: ${this.date}: ${value}`),[39m[22m
+[1m[31m[7m  [0m [91m                     ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste3_teste3_module_ts.js[39m[37m[2m | [22mpages-teste3-teste3-module[2m | [22m[96m54.69 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-22T17:08:54.661Z[39m[37m[22m - Hash: [1m[37m403a883ba9d811e9[39m[37m[22m - Time: [1m[37m98[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/pages/teste3/Teste3.component.ts[0m:[93m3[0m:[93m17[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module 'pretty-web-console'. '/Users/leogouveia/Development/teste/ng-testes/node_modules/.pnpm/pretty-web-console@0.10.1/node_modules/pretty-web-console/dist/pretty-web-console.js' implicitly has an 'any' type.[39m[22m
+[1m[31m  Try `npm i --save-dev @types/pretty-web-console` if it exists or add a new declaration (.d.ts) file containing `declare module 'pretty-web-console';`[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import pwc from 'pretty-web-console';[39m[22m
+[1m[31m[7m [0m [91m                ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m

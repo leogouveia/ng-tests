@@ -102,4 +102,12 @@ export class FooComponent implements AfterViewChecked {
       'color: auto'
     );
   }
+
+  ngOnDestroy() {
+    console.log(
+      'Teste2: Component %cFoo%c has been destroyed',
+      'color: red',
+      'color: auto'
+    );
+  }
 }

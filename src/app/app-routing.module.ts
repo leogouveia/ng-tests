@@ -12,7 +12,21 @@ const routes: Routes = [
     redirectTo: '/teste1',
     pathMatch: 'full',
   },
-  { path: 'teste2', loadChildren: () => import('./pages/teste2/teste2.module').then(m => m.Teste2Module) },
+  {
+    path: 'teste2',
+    loadChildren: () =>
+      import('./pages/teste2/teste2.module').then((m) => m.Teste2Module),
+  },
+  {
+    path: 'teste3',
+    loadChildren: () =>
+      import('./pages/teste3/teste3.module').then((m) => m.Teste3Module),
+  },
+  {
+    path: 'teste4',
+    loadChildren: () =>
+      import('./pages/teste4/teste4.module').then((m) => m.Teste4Module),
+  },
 ];
 
 @NgModule({
