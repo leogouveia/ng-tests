@@ -73,3 +73,22 @@ hr {
   margin: 0;
   padding: 0;
 }
+
+.border-red {
+  border: 2px solid red;
+}
+.border-blue {
+  border: 1px solid blue;
+}
+
+.my-grid {
+  margin: 10px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 100%;
+  border: 1px dotted black;
+  * {
+    justify-self: stretch;
+  }
+}

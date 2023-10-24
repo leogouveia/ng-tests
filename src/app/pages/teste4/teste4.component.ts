@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-teste4',
   template: `
-    <h2>Teste4</h2>
+    <h2>Testa Unsubscribe e Cancelamento de Requests</h2>
     <app-foo></app-foo>
     <app-bar></app-bar>
   `,

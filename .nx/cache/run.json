@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx serve",
-    "startTime": "2023-10-22T17:11:54.368Z",
-    "endTime": "2023-10-22T17:13:04.052Z",
+    "startTime": "2023-10-22T17:14:14.723Z",
+    "endTime": "2023-10-23T11:07:38.962Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "ng-testes:serve:development",
       "target": "serve",
       "projectName": "ng-testes",
-      "hash": "7992890360534818755",
-      "startTime": "2023-10-22T17:11:54.372Z",
-      "endTime": "2023-10-22T17:13:04.052Z",
+      "hash": "13267230393463996904",
+      "startTime": "2023-10-22T17:14:14.726Z",
+      "endTime": "2023-10-23T11:07:38.961Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

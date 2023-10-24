@@ -2047,3 +2047,16 @@
 [37m[0mBuild at: [1m[37m2023-10-23T01:22:33.603Z[39m[37m[22m - Hash: [1m[37m36a2d236aaca8e0a[39m[37m[22m - Time: [1m[37m293[39m[37m[22mms[0m[39m
 [37m[39m
 [37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m                     [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                              [2m | [22mruntime                   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                        [2m | [22m[1mNames[22m                     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_pages_teste4_teste4_module_ts.js[39m[37m[2m | [22mpages-teste4-teste4-module[2m | [22m[96m15.95 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m7 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-10-23T01:25:12.048Z[39m[37m[22m - Hash: [1m[37me51d9853f1456c1b[39m[37m[22m - Time: [1m[37m233[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m

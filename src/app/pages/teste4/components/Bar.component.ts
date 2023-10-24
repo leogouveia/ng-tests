@@ -52,8 +52,6 @@ export class BarComponent implements OnDestroy {
   }
 
   cancelRequests() {
-    this.destroy$.next(true);
-    this.destroy$.unsubscribe();
     this.subscriptions.forEach((s) => {
       console.log('ubsubscribing');
       s.unsubscribe();
